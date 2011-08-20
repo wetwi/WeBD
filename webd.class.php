@@ -14,7 +14,7 @@
  define ( "BD_USER", "YOUR_NAME" );
  define ( "BD_PASS", "YOUR_PASS" );
  define ( "BD_NAME", "YOUR_BASE" );
- 
+  
  class weBD {
 	
 	protected $connect, $error, $table_name;
