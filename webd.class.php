@@ -17,7 +17,6 @@
   
  class weBD {
 	
-<<<<<<< HEAD
 	protected $connect, $error, $table_name;
 	
 	function __construct ( $tb_name = FALSE ) {
@@ -135,8 +134,4 @@
 		}
 	}
  }
-=======
-	$test_var = "OK";
-	//It's OK!
->>>>>>> d000f7eebfa239e339cabca9a740d215f93e1f82
 ?>
